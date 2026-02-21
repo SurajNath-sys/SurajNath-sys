@@ -1,6 +1,6 @@
 I am a Computer Science student at Centurion University of Technology and Management, currently learning Java and building small projects to improve my programming skills. I am passionate about technology and working towards becoming a software developer in the future.
 
-Projects
+PROJECTS
 
 Rock Paper Scissors (Java)
 
@@ -18,7 +18,7 @@ Implements game board logic and input handling.
 
 Helps understand problem-solving and program structure.
 
-Goals
+GOALS
 
 Strengthen my fundamentals in Java programming.
 
