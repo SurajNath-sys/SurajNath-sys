@@ -2,7 +2,7 @@ I am a Computer Science student at Centurion University of Technology and Manage
 
 PROJECTS
 
-Rock Paper Scissors (Java)
+->Rock Paper Scissors (Java)
 
 Console-based game where the user plays against the computer.
 
@@ -10,7 +10,7 @@ Uses random number generation for computer moves.
 
 Demonstrates basic Java concepts like loops, conditions, and arrays.
 
-Tic Tac Toe (Java)
+->Tic Tac Toe (Java)
 
 Two-player console game.
 
