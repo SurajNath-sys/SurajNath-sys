@@ -20,14 +20,14 @@ Helps understand problem-solving and program structure.
 
 GOALS
 
-Strengthen my fundamentals in Java programming.
+1.Strengthen my fundamentals in Java programming.
 
-Build more real-world and beginner-friendly projects.
+2.Build more real-world and beginner-friendly projects.
 
-Learn Data Structures and Algorithms.
+3.Learn Data Structures and Algorithms.
 
-Improve problem-solving and coding skills.
+4.Improve problem-solving and coding skills.
 
-Create a strong portfolio for software development roles.
+5.Create a strong portfolio for software development roles.
 
-Secure a good job in the tech industry.
+6.Secure a good job in the tech industry.
